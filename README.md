@@ -1,2 +1,3 @@
 # Reversing-arrays
-Reversing the order of array items in JS 
+ 
+[1, 2, 3, 4].reverse();
